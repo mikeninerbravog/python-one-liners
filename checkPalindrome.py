@@ -26,4 +26,5 @@ In this code, you are checking whether each of the given strings is a palindrome
    - `str4` is a palindrome ("mom"), so it will print 'Yes'.
 
 The code prints 'Yes' or 'No' based on whether each string is a palindrome.
+
 """
