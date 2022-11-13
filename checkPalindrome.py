@@ -1,4 +1,4 @@
-str1 = "MUO"
+str1 = "BRAVOG"
 str2 = "madam"
 str3 = "MAKEUSEOF"
 str4 = "mom"
@@ -11,7 +11,7 @@ print('Yes') if str4 == str4[::-1] else print('No')
 In this code, you are checking whether each of the given strings is a palindrome or not. 
 A palindrome is a word or phrase that reads the same forwards and backward. Here's a breakdown of your code:
 
-1. `str1 = "MUO"`: Defines a string variable `str1` with the value "MUO".
+1. `str1 = "BRAVOG"`: Defines a string variable `str1` with the value "BRAVOG".
 
 2. `str2 = "madam"`: Defines another string variable `str2` with the value "madam".
 
